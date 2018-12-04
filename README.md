@@ -1,3 +1,9 @@
-Todo
+Hey,it's my private page.
 ________
-I need a album emm.
+Todo:
+
+·Maybe I need a msg_box——done half
+
+·Also a album more, emm.
+
+·soon~
